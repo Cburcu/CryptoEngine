@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{9235FF66-76C5-4F3E-B8C9-1C6644E1989A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEncryptors", "MyEncryptors\MyEncryptors.csproj", "{57E01DEA-29D7-41CF-90C3-55CC7EC66446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{2C7ECEB3-8486-4AD2-861B-D941041352FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9235FF66-76C5-4F3E-B8C9-1C6644E1989A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9235FF66-76C5-4F3E-B8C9-1C6644E1989A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9235FF66-76C5-4F3E-B8C9-1C6644E1989A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9235FF66-76C5-4F3E-B8C9-1C6644E1989A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E01DEA-29D7-41CF-90C3-55CC7EC66446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E01DEA-29D7-41CF-90C3-55CC7EC66446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E01DEA-29D7-41CF-90C3-55CC7EC66446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E01DEA-29D7-41CF-90C3-55CC7EC66446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7ECEB3-8486-4AD2-861B-D941041352FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7ECEB3-8486-4AD2-861B-D941041352FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7ECEB3-8486-4AD2-861B-D941041352FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7ECEB3-8486-4AD2-861B-D941041352FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19E041A-BE04-4546-B266-5362A8C3CF89}
+	EndGlobalSection
+EndGlobal
